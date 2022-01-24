@@ -1,0 +1,3 @@
+# Project exclude paths
+/notificationApp-peter/.dart_tool/
+/notificationApp-peter/build/
